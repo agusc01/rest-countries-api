@@ -1,0 +1,24 @@
+npm init -y
+
+https://browsersync.io/docs
+npm install browser-sync --save-dev
+
+npm install --save-dev gulp
+
+npm install --save-dev gulp-sass
+
+npm install --save-dev gulp-postcss
+
+npm install --save-dev sass
+
+npm install --save-dev autoprefixer
+
+npm install --save-dev nano
+
+npm install --save-dev postcss
+
+
+Then just type "gulp" on console
+
+
+source: https://github.com/othiagomoreira/rest-countries-api.git
