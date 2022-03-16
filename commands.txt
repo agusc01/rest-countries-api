@@ -1,7 +1,7 @@
 npm init -y
 
 https://browsersync.io/docs
-npm install browser-sync --save-dev
+npm install --save-dev browser-sync 
 
 npm install --save-dev gulp
 
@@ -13,10 +13,11 @@ npm install --save-dev sass
 
 npm install --save-dev autoprefixer
 
-npm install --save-dev nano
+npm install --save-dev cssnano
 
 npm install --save-dev postcss
 
+or : npm install browser-sync gulp gulp-sass gulp-postcss sass autoprefixer cssnano postcss --save-dev 
 
 Then just type "gulp" on console
 
